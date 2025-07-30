@@ -2177,7 +2177,7 @@
         // Service Worker kaydı
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('/sw.js')
+                navigator.serviceWorker.register('./sw.js')
                     .then(function(registration) {
                         console.log('Service Worker kaydedildi:', registration);
                     })
@@ -2192,7 +2192,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('/sw.js')
+                navigator.serviceWorker.register('./sw.js')
                     .then(function(registration) {
                         console.log('Service Worker registered successfully:', registration);
                     })
@@ -2204,4 +2204,4 @@
     </script>
 </body>
 </html>
-<!-- MiniPlan v2.1.3 - Icon base64: 2024-06-10 --> 
+<!-- MiniPlan v2.1.4 - Kritik hata düzeltmeleri: 2024-06-10 --> 
