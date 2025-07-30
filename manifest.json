@@ -11,13 +11,13 @@
   "scope": "/",
   "icons": [
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAABFbMl4AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAABVJREFUeNrtwQENAAAAwqD1T20JT6AAAHwYAAAB0niJ8AAAAABJRU5ErkJggg==",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAABFbMl4AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAABVJREFUeNrtwQENAAAAwqD1T20JT6AAAHwYAAAB0niJ8AAAAABJRU5ErkJggg==",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
